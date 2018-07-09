@@ -1,4 +1,4 @@
-a=raw_input()
+a=input()
 b=int(a)
 if (b%2)==0:
  print("even")
